@@ -1,0 +1,8 @@
+{
+    "targetDir": "./dl",
+    "downLoadClient": true,
+    "downLoadNeogeo": true,
+    "downLoadCPS1": true,
+    "downLoadCPS2": true,
+    "useAsync": false
+}

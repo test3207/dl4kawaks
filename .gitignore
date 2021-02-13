@@ -1,0 +1,7 @@
+dl
+node_modules
+yarn.lock
+package-lock.json
+.DS_Store
+index.js
+index.exe
